@@ -1,0 +1,11 @@
+{
+  "name": "wos-gift-redeem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addId.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
